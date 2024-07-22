@@ -1,6 +1,6 @@
 {
   "name": "@bhubhik/my-own-microservice",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A microservice built to return some kind of data where used. Created for learning purpose.",
   "main": "index.js",
   "publishConfig": {

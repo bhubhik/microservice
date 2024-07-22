@@ -1,3 +1,5 @@
-module.export = function () {
-  console.log('Hello from my microservice!!');
+const myMessage = () => {
+  console.log('Hello from my microservice!');
 };
+
+export default myMessage;
