@@ -1,7 +1,7 @@
 {
-  "name": "@bhubhik/my-own-microservice",
-  "version": "1.0.2",
-  "description": "A microservice built to return some kind of data where used. Created for learning purpose.",
+  "name": "@bhubhik/my-library",
+  "version": "1.0.3",
+  "description": "A library built to return some kind of data or function as a util where used. Created for learning purpose.",
   "main": "index.js",
   "type": "module",
   "publishConfig": {
